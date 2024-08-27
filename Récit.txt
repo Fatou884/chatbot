@@ -1,0 +1,21 @@
+[J=Histoire 1]
+[M=Titre] Il était une fois
+Il était une fois un vilain petit canard. Tous ses frères étaient blancs, il était noir. 
+Sa mère le négligeait beaucoup.
+[M=Titre] Le drame se noue
+Le vilain petit canard un soir de brume reste caché au fond des roseaux. [MT=poésie de la nature]La couvée l'abandonne à son triste sort.
+Il a joué un bon tour à ses frères. Plus personne ne se moque de lui.
+[M=Titre] La fin abominable du petit canard.
+La nuit noire tombe. Affolée la pauvre bestiole se prend dans un filet. Le lendemain matin Martin le pêcheur est très étonné de sa prise.
+On dit que maman canard ne s'est jamais consolée...
+[J=Histoire 2]
+[M=Titre] Il était une fois 
+Au fond du la forêt la Belle au bois dormant rêve du Prince charmant [MT=poésie nature]. Elle est assoupie dans un lit de mousse bercée par le chant du vent. 
+Le Petit poucet vient à passer semant cailloux blanc chemin faisant.  Au bruissement de ses pas Banche neige tressaille. Et se réveille.
+[M=Titre] Once upon a time
+A New York Nestor Burma termine à la hâte ses corn flakes pour se précipiter à l'agence Reuter [MT=ambiance urbaine]. Le cours de l'action de Reve Incorporated s'envole.  Sur la 5ème avenue la partouille 57X termine sa ronde.
+[M=Titre] Faut pas en faire un drame
+Distances, temps, époques et lieux. Petit poucet se prend pour Nestor Burma. Hypothétiques rencontres, conjectures hasardeuses.
+La Reve Incorporated spécule sur l'improbable.
+
+
